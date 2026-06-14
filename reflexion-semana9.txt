@@ -1,0 +1,9 @@
+Reflexión semana 9
+
+Que una plataforma tecnológica funcione de manera estable y segura en un servidor es fundamental para garantizar que las comunidades puedan acceder a ella en cualquier momento sin interrupciones. Si el servidor falla o se cae con frecuencia, los usuarios pierden confianza en la plataforma y dejan de participar, lo que afecta directamente su propósito comunitario.
+
+La estabilidad de un servidor depende de varios factores: un sistema operativo bien configurado, un entorno de ejecución como Node.js correctamente instalado, puertos bien definidos y logs que permitan monitorear lo que ocurre en tiempo real. Cada uno de estos componentes cumple un rol específico y su correcta integración determina si el servicio funciona de manera continua.
+
+La seguridad también es parte de la estabilidad. Un servidor expuesto sin protección puede ser atacado, lo que no solo interrumpe el servicio sino que puede comprometer los datos de los usuarios. Por eso es importante controlar los accesos, mantener el software actualizado y registrar toda la actividad del sistema.
+
+En el contexto de plataformas comunitarias, donde personas de diferentes niveles técnicos depositan su confianza en la tecnología, la responsabilidad de mantener servidores estables y seguros es también una responsabilidad social. Un servidor bien administrado es la base invisible que hace posible la participación ciudadana digital.
